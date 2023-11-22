@@ -7,15 +7,15 @@ File da Consegnare: Nessuno
 ### Descrizione:  
 Crea la tua vetrina personale su GitHub. Modifica la pagina su GitHub tramite il linguaggio Markdown per rendere il tuo profilo interessante e accattivante. Sii creativo e personalizza la tua vetrina, nel mondo del lavoro non esistono scuse come ma io sono un programmatore. Sperimenta con il Markdown per aggiungere stili, elenchi, collegamenti e altro per mostrare la tua personalità e le tue competenze.
 
-- CHOK
-+ KOTOOON
-* Quel topo magico
+(-) CHOK
+(+) KOTOOON
+(*) Quel topo magico
 
 ### Value type tierlist:
-0. Byte
-1. Float
-1. Integer
-2. String
-2. Char
-3. Double
-4. Bool
+**S** - Byte
+**A** - Float
+**A** - Integer
+**B** - String
+**B** - Char
+**C** - Double
+**D** - Bool
