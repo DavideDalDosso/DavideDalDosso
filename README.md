@@ -12,10 +12,10 @@ Crea la tua vetrina personale su GitHub. Modifica la pagina su GitHub tramite il
 (*) Quel topo magico
 
 ### Value type tierlist:
-**S** - Byte
-**A** - Float
-**A** - Integer
-**B** - String
-**B** - Char
-**C** - Double
-**D** - Bool
+**S** - Byte  
+**A** - Float  
+**A** - Integer  
+**B** - String  
+**B** - Char  
+**C** - Double  
+**D** - Bool  
