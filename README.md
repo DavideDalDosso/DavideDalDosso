@@ -13,7 +13,7 @@ Crea la tua vetrina personale su GitHub. Modifica la pagina su GitHub tramite il
 
 ### Value type tierlist:
 **S** - Byte  
-**A** - Float Integer  
-**B** - String Char  
+**A** - Float  Integer  
+**B** - String  Char  
 **C** - Double  
 **D** - Bool  
