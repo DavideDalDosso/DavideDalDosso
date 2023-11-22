@@ -1,6 +1,6 @@
 ### 02ILoveGithub - Vetrina Github **PERSONALE**  
 ### Istruzioni generali  
-Nome programma: <tuo_nome>  
+Nome programma: DavideDalDosso 
   
 File da Consegnare: Nessuno  
   
