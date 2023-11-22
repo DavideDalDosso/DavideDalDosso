@@ -10,3 +10,12 @@ Crea la tua vetrina personale su GitHub. Modifica la pagina su GitHub tramite il
 - CHOK
 + KOTOOON
 * Quel topo magico
+
+### Value type tierlist:
+0. Byte
+1. Float
+1. Integer
+2. String
+2. Char
+3. Double
+4. Bool
