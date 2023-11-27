@@ -9,14 +9,7 @@ Crea la tua vetrina personale su GitHub. Modifica la pagina su GitHub tramite il
 
 (-) CHOK  
 (+) KOTOOON  
-(*) Quel topo magico  
-
-### Value type tierlist:
-**S** - Byte  
-**A** - Float ; Integer  
-**B** - String ; Char  
-**C** - Double  
-**D** - Bool  
+(*) Quel topo magico
 
 However there's more than warm and light[^1].
 
